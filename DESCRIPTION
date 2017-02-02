@@ -1,0 +1,14 @@
+Package: zdat
+Type: Package
+Title: Zonation Tutorial Data and Configuration Files
+Version: 0.1.0
+Authors@R: c(
+    person("Joona", "Lehtomaki", , "joona.lehtomaki@gmail.com", c("aut", "cre")),
+    )
+Maintainer: Joona Lehtomaki <joona.lehtomaki@gmail.com>
+Description: Data package contains both the data and configuration files
+    necessary to run the basic version of the Zonation spatial conservation
+    prioritization software tutorial.
+License: CC BY-4.0
+Encoding: UTF-8
+LazyData: true
